@@ -25,7 +25,6 @@ html {
 .cards {
   padding: 0;
   list-style-type: none;
-
 }
 
 img {
@@ -69,6 +68,7 @@ img {
   .card-body {
     margin-left: 4rem;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -87,6 +87,7 @@ img {
   .card-body {
     margin-left: 4rem;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -111,6 +112,7 @@ img {
     position: relative;
     left: 10rem;
   }
+
 }
 
 @media only screen and (min-width: 90em) {
